@@ -3,7 +3,6 @@ main(){
 
 char first;
 char last;
-double dollars;
 double EUR;
 double CAD;
 
